@@ -1,0 +1,12 @@
+Tomato Healthy
+Tomato_mosaic_virus
+Tomato_yelloleaf_curl_virus 
+Tomato_target_spot
+Tomato_leaf_mold
+Tomato_early_blight
+tomato_bacterial_spot
+Potato_healthy
+potato_laze_blight
+potato_early_blight
+pepper_bell_healthy
+pepper_bacterial_spot

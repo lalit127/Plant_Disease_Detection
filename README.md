@@ -5,7 +5,7 @@ Detect Plant Disease using Tflite Package
 You Can also add or Create Other Models such as recognize Objects , recognize Colors etc.
 Its Just a Sample of How to Detect any Plant Disease Using Machine Learning 
 
-to Train or Create Model from Teachable Machine.
+Create Model from Teachable Machine.
 
 Replace /assets File from Your Indeividula Models.
 

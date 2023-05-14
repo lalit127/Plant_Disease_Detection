@@ -7,8 +7,11 @@ Its Just a Sample of How to Detect any Plant Disease Using Machine Learning
 
 Create Model from Teachable Machine.
 
-Replace /assets File from Your Indeividula Models.
+Replace /assets Models to Your Models.
 
+Run Command  'flutter run'
+
+--Done--
 
 
 ## Getting Started
